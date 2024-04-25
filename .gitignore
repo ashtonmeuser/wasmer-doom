@@ -1,0 +1,4 @@
+.DS_Store
+/wasmer-doom-rust/target
+/wasmer-doom-cpp/wasmer
+/wasmer-doom-cpp/main
